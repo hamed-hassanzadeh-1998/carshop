@@ -329,3 +329,22 @@ clip-path: polygon(0 10%,100% 0,100% 90%,0 100%);
   color: var(--mainYellow);
   font-size: 4rem;
 }
+/* customer */
+.customer-card-body{
+  color: var(--mainGrey);
+  margin-top: -4rem !important;
+}
+.customer-img{
+  border: .4rem var(--mainWhite) solid;
+}
+.customer-name{
+  color: var(--mainBlue);
+  margin:.5rem;
+}
+.customer-icon{
+  font-size: 2rem;
+  color: var(--mainGrey)
+}
+.customer-quote{
+  max-width: 90%;
+}
